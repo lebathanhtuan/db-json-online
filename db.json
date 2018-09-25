@@ -275,9 +275,26 @@
       "password": "123456",
       "email": "lebathanhtuan@gmail.com",
       "id": "1"
+    },
+    {
+      "fullName": "Thanh Tuấn",
+      "userName": "lbttuan",
+      "password": "123321",
+      "email": "lbttuan@gmail.com",
+      "id": "2"
     }
   ],
   "bag": [
+    {
+      "id": "4Bạclebathanhtuan",
+      "name": "Samsung Galaxy Note 8",
+      "price": "19990000",
+      "color": "Bạc",
+      "number": "1",
+      "imgCover": "../../img/samsung_note8_1.jpg",
+      "nameBag": "lebathanhtuan",
+      "idProduct": "4"
+    }
   ],
   "comments": [
     {
@@ -285,21 +302,21 @@
       "name": "Tuấn",
       "time": "15/8/2018  18:41:9",
       "cmt": "Máy này rất tốt và đẹp",
-      "id": 5
+      "id": 1
     },
     {
       "idProduct": "3",
       "name": "Hải",
       "time": "21/8/2018  10:30:39",
       "cmt": "Máy rất đẹp !!!",
-      "id": 7
+      "id": 2
     },
     {
       "idProduct": "2",
       "name": "Quang Hải",
       "time": "23/8/2018  11:20:31",
       "cmt": "Sản phẩm quá mắc!",
-      "id": 8
+      "id": 3
     }
   ],
   "companies": [
